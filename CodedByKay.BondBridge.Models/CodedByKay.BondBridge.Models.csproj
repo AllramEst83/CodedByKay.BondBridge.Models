@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>CodedByKay.BondBridge.Models</PackageId>
+    <Version>1.0.0-alpha</Version>
+    <Owner>Kay Wiberg</Owner>
+    <Authors>Kay Wiberg</Authors>
+    <Company>CodedByKay</Company>
+    <Product>CodedByKay BondBridge Models</Product>
+    <Description>A foundational class library for BondBridge, facilitating the development of secure and efficient messaging services within .NET MAUI and .NET Core applications. This alpha version includes models for user and message management, offering a robust starting point for building encrypted messaging solutions.</Description>
+    <PackageTags>.NET;MAUI;.NET Core;Messaging;Encrypted Messaging;Group Chat;CodedByKay</PackageTags>
+    <RepositoryUrl>https://github.com/AllramEst83/CodedByKay.BondBridge.Models</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="" />
+    <None Include="../LICENSE.txt" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>
