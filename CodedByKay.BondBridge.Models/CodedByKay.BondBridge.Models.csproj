@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>CodedByKay.BondBridge.Models</PackageId>
-    <Version>1.0.0-alpha</Version>
+    <Version>1.0.2-alpha</Version>
     <Owner>Kay Wiberg</Owner>
     <Authors>Kay Wiberg</Authors>
     <Company>CodedByKay</Company>
@@ -21,4 +21,5 @@
     <None Include="../README.md" Pack="true" PackagePath="" />
     <None Include="../LICENSE.txt" Pack="true" PackagePath="" />
   </ItemGroup>
+
 </Project>
